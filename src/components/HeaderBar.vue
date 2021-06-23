@@ -12,7 +12,7 @@
       </li>
       <li class="adr"><span class="locality">Santiago</span>, <span class="country-name">Chile </span>🇨🇱</li>
       <li class="url" title="Github">
-        <img class="icon" src="https://cdn.icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png">
+        <img class="icon" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
         <a href="https://github.com/ad1cted"> GitHub</a>
       </li>
       <li class="url">
@@ -27,9 +27,7 @@
         <img class="icon" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg">
         <a href="https://www.hackerrank.com/ad1cted"> HackerRank</a>
       </li>
-      <li class="url">
-        <Countdown/>
-      </li>
+
 
     </ul>
 
@@ -38,17 +36,14 @@
 
 <script>
 
-import Countdown from "./Countdown";
 
 export default {
   name: "HeaderBar",
   props: {
     name: String,
     email: String
-  },
-  components: {
-    Countdown
-  },
+  }
+
 }
 </script>
 
