@@ -1,0 +1,16 @@
+<template>
+  <section id="summary">
+    <h1>Resumen</h1>
+    <p>Entusiasta con a lo menos 10 años de practica en informática. Comencé desde muy pequeño mi aprendizaje de forma
+      autónoma, siempre incentivado en estar a la vanguardia de las nuevas tecnologías.</p>
+    <p>Mis principales habilidades dentro de la informática son el Desarrollo Web, Seguridad informatica e Ingenieria de
+      datos.</p>
+
+  </section>
+</template>
+<script>
+export default {
+  name: "Summary"
+}
+</script>
+
