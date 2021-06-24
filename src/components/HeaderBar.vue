@@ -27,6 +27,12 @@
         <img class="icon" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg">
         <a href="https://www.hackerrank.com/ad1cted"> HackerRank</a>
       </li>
+      <li class="url">
+        <img class="icon" src="https://www.topcoder.com/wp-content/uploads/2020/05/cropped-TC-Icon-32x32.png">
+        <a href="https://www.topcoder.com/members/ad1cted"> TopCoder</a>
+      </li>
+
+
 
 
     </ul>
