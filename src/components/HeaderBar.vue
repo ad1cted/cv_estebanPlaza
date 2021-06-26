@@ -31,7 +31,9 @@
         <img class="icon" src="https://www.topcoder.com/wp-content/uploads/2020/05/cropped-TC-Icon-32x32.png">
         <a href="https://www.topcoder.com/members/ad1cted"> TopCoder</a>
       </li>
-
+      <li class="url">
+        <Countdown/>
+      </li>
 
 
 
@@ -43,11 +45,16 @@
 <script>
 
 
+import Countdown from "@/components/Countdown";
+
 export default {
   name: "HeaderBar",
   props: {
     name: String,
     email: String
+  }, components:{
+    Countdown
+
   }
 
 }
