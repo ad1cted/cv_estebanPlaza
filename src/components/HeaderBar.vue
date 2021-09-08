@@ -8,7 +8,7 @@
           {{ email }}</a>
       </li>
       <li class="tel">
-        <a href="https://api.whatsapp.com/send?phone=56968561358&text=Hola%20Esteban%20vi%20tu%20CV%20desde%20tu%20Web">📱+56968561358</a>
+        <a href="https://api.whatsapp.com/send?phone=56968561358&text=Hola%20Esteban%20vi%20tu%20CV%20desde%20tu%20Web%20https://ad1cted.github.io/cv_estebanPlaza/">📱+56968561358</a>
       </li>
       <li class="adr"><span class="locality">Santiago</span>, <span class="country-name">Chile </span>🇨🇱</li>
       <li class="url" title="Github">

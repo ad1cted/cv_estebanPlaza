@@ -28,13 +28,13 @@
       <dd title="">FastAPI</dd>
       <dd title="">Selenium</dd>
       <dd title="">Celery</dd>
-
       <dt></dt>
       <dd title="">Sklearn</dd>
       <dd title="">Scrapy</dd>
       <dd title="">Dash</dd>
       <dd title="">Laravel</dd>
       <dd title="">CodeIgniter</dd>
+      <dd title="">Spark</dd>
 
       <dt>DB</dt>
       <dd title="">MySql</dd>
