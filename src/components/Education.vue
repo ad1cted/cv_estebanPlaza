@@ -2,14 +2,14 @@
   <section id="education">
     <h1>Educacion</h1>
     <h2><img class="imagemedium"
-             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Escudo_de_la_Universidad_de_Santiago-4.svg/800px-Escudo_de_la_Universidad_de_Santiago-4.svg.png">
+             src="../../static/usach_logo.png">
       Universidad de Santiago de Chile - USACH</h2>
     <p>Ingeniería en Computación e Informática, 2019 (Egresado)</p>
-    <h2><img class="imagemedium" src="http://200.6.99.248/~bru487cl/files/Utem.jpg">
+    <h2><img class="imagemedium" src="../../static/utem_logo.png">
       Universidad Tecnologica Metropolitana - UTEM</h2>
     <p>Ingeniería en Informática, 2014 (No finalizado)</p>
 
-    <h2><img class="imagemedium" src="https://insucoefm.cl/wp-content/uploads/2020/04/cropped-favicon128-1-100x100.png">
+    <h2><img class="imagemedium" src="../../static/insuco_logo.png">
       Instituto Superior de Comercio - INSUCO I </h2>
     <p>Tecnico en Contabilidad, 2012 (Egresado)</p>
   </section>

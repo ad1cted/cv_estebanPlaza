@@ -12,23 +12,25 @@
       </li>
       <li class="adr"><span class="locality">Santiago</span>, <span class="country-name">Chile </span>🇨🇱</li>
       <li class="url" title="Github">
-        <img class="icon" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+        <img class="icon" src="../../static/github_logo.png">
         <a href="https://github.com/ad1cted"> GitHub</a>
       </li>
       <li class="url">
-        <img class="icon" src="https://app.codesignal.com/img/favicon-16x16.png">
+        <img class="icon" src="../../static/codesignal_logo.png">
         <a href="https://app.codesignal.com/profile/esteban_i"> CodeSignal</a>
       </li>
       <li class="url">
-        <img class="icon" src="https://static.platzi.com/media/favicons/platzi_favicon.png">
+        <img class="icon" src="../../static/platzi_logo.webp">
         <a href="https://platzi.com/p/TracertRouter/"> Platzi</a>
       </li>
       <li class="url">
-        <img class="icon" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg">
+        <img class="icon" src="../../static/hackerrank_logo.svg">
         <a href="https://www.hackerrank.com/ad1cted"> HackerRank</a>
       </li>
+
+<!--      TODO: AGREGAR  LINKEDIN-->
       <li class="url">
-        <img class="icon" src="https://www.topcoder.com/wp-content/uploads/2020/05/cropped-TC-Icon-32x32.png">
+        <img class="icon" src="../../static/topcoder_logo.png">
         <a href="https://www.topcoder.com/members/ad1cted"> TopCoder</a>
       </li>
       <li class="url">
