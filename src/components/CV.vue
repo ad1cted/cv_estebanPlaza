@@ -9,6 +9,7 @@
     <Experience/>
     <Education/>
     <Hobbies/>
+    <Certifications/>
     <Footer/>
 
   </div>
@@ -23,6 +24,7 @@ import Experience from "@/components/Experience";
 import Education from "@/components/Education";
 import Hobbies from "@/components/Hobbies";
 import Footer from "@/components/Footer";
+import Certifications from "@/components/Certifications";
 
 export default {
   name: 'CV',
@@ -33,7 +35,8 @@ export default {
     Experience,
     Education,
     Hobbies,
-    Footer
+    Footer,
+    Certifications
   },
 }
 </script>
