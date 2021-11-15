@@ -2,6 +2,20 @@
   <section id="experience">
     <h1>Experiencia laboral</h1>
     <article>
+      <h1><a href="https://www.avla.com/cl/" title="AVLA">VINKEN</a> <span>Chile</span></h1>
+      <h2>Ingeniero de datos</h2>
+      <time class="start" datetime="2019-01-01">Mar 2020</time>
+      <time class="end" datetime="2021-02-01">Feb 2021</time>
+      <ul id="left-align">
+        <li><p>Implementacion de API's de información crediticia para Chile, Perú, Brasil, Colombia y México.</p></li>
+        <li><p>Implementacion dashboard de visualización de datos relevantes para la empresa.</p></li>
+        <li><p>Desarrollo de modelo de ML para automatización de procesos de aprobaciones de clientes.</p></li>
+        <li><p>Desarrollo de modelo de ML para automatización en la detección de fuga de clientes.</p></li>
+        <li><p>Optimizacion de query a db y algoritmos que requieren alta performance.</p></li>
+      </ul>
+
+    </article>
+    <article>
       <h1><a href="https://www.avla.com/cl/" title="AVLA">AVLA</a> <span>Chile</span></h1>
       <h2>Ingeniero de datos</h2>
       <time class="start" datetime="2019-01-01">Mar 2020</time>
