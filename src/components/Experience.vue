@@ -2,16 +2,18 @@
   <section id="experience">
     <h1>Experiencia laboral</h1>
     <article>
-      <h1><a href="https://www.avla.com/cl/" title="AVLA">VINKEN</a> <span>Chile</span></h1>
-      <h2>Ingeniero de datos</h2>
-      <time class="start" datetime="2019-01-01">Mar 2020</time>
-      <time class="end" datetime="2021-02-01">Feb 2021</time>
+      <h1><a href="https://www.avla.com/cl/" title="AVLA">DICTUC/VINKEN</a> <span>Chile</span></h1>
+      <h2>Consultor TI</h2>
+
+      <time class="start" datetime="2021-02-01">Feb 2021</time>
+      <time class="end" datetime="now()">-</time>
+      <p>Gestión de proyectos de SW y guiar al equipo de TI en temas estrategicos.</p>
+
       <ul id="left-align">
-        <li><p>Implementacion de API's de información crediticia para Chile, Perú, Brasil, Colombia y México.</p></li>
-        <li><p>Implementacion dashboard de visualización de datos relevantes para la empresa.</p></li>
-        <li><p>Desarrollo de modelo de ML para automatización de procesos de aprobaciones de clientes.</p></li>
-        <li><p>Desarrollo de modelo de ML para automatización en la detección de fuga de clientes.</p></li>
-        <li><p>Optimizacion de query a db y algoritmos que requieren alta performance.</p></li>
+        <li><p>Seguimiento y supervision de proyectos de SW.</p></li>
+        <li><p>Encargado de infraestructura On-premises y Cloud.</p></li>
+        <li><p>Encargado de implementar modelos de optimizacion y ML.</p></li>
+        <li><p>Definiciones de estrategias tecnologicas.</p></li>
       </ul>
 
     </article>
