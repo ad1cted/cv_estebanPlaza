@@ -9,7 +9,7 @@
       <dd title="">CSS3</dd>
       <dd title="">JavaScript</dd>
       <dd title="">Vue.js</dd>
-      <dd title="">Angularjs</dd>
+      <dd title="">Angular</dd>
       <dd title="">React</dd>
       <dd title="">SASS</dd>
 
@@ -36,6 +36,7 @@
       <dd title="">CodeIgniter</dd>
       <dd title="">Spark</dd>
       <dd title="">Streamlit</dd>
+      <dd title="">Apache Beam</dd>
 
 
 
@@ -64,7 +65,7 @@
       <dd title="">QlikView</dd>
       <dd title="">GIT</dd>
       <dd title="">SVN</dd>
-
+      <dd title="">GCP</dd>
 
 
       <dt>CMS/ERP/CRM</dt>
@@ -75,6 +76,7 @@
       <dd title="">Wordpress</dd>
       <dd title="">Joomla</dd>
       <dd title="">Plone</dd>
+      <dd title="">SalesForce</dd>
 
 
     </dl>
