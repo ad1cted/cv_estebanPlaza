@@ -31,7 +31,7 @@
       <dt></dt>
       <dd title="">Sklearn</dd>
       <dd title="">Scrapy</dd>
-      <dd title="">Dash</dd>
+      <dd title="">Dask</dd>
       <dd title="">Laravel</dd>
       <dd title="">CodeIgniter</dd>
       <dd title="">Spark</dd>
