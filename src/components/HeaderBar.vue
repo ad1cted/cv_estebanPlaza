@@ -1,7 +1,7 @@
 <template>
   <header class="vcard">
     <h1 class="fn">{{ name }}</h1>
-    <h2 class="role">Full-Stack Developer &amp; Data Engineer</h2>
+    <h2 class="role">Data Engineer &amp; Full-Stack Developer  </h2>
     <ul class="contact">
       <li class="email">✉️
         <a :href="'mailto:'+ email">

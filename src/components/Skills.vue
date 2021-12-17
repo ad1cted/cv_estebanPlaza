@@ -50,24 +50,6 @@
       <dd title="">Neo4j</dd>
       <dd title="">Aurora</dd>
 
-
-      <dt>Otros</dt>
-      <dd title="">Kubernetes</dd>
-      <dd title="">Pentaho</dd>
-      <dd title="">Jenkins</dd>
-      <dd title="">Linux ❤️</dd>
-      <dd title="">Arduino</dd>
-      <dd title="">Heroku</dd>
-      <dd title="">AWS</dd>
-      <dd title="">Docker</dd>
-      <dd title="Jenkins">Docker Swarm</dd>
-      <dd title="">Keras</dd>
-      <dd title="">QlikView</dd>
-      <dd title="">GIT</dd>
-      <dd title="">SVN</dd>
-      <dd title="">GCP</dd>
-
-
       <dt>CMS/ERP/CRM</dt>
       <dd title="">Odoo</dd>
       <dd title="">Prestashop</dd>
@@ -78,6 +60,27 @@
       <dd title="">Plone</dd>
       <dd title="">SalesForce</dd>
 
+      <dt>Otros</dt>
+      <dd title="">Kubernetes</dd>
+      <dd title="">Bizagi</dd>
+      <dd title="">Bonita BPM</dd>
+      <dd title="">Pentaho</dd>
+      <dd title="">Jenkins</dd>
+      <dd title="">Linux ❤️</dd>
+      <dd title="">Arduino</dd>
+      <dd title="">Heroku</dd>
+      <dd title="">AWS</dd>
+      <dd title="">Docker</dd>
+      <dd title="Jenkins">Docker Swarm</dd>
+      <dd title="">Keras</dd>
+      <dd title="">QlikView</dd>
+
+      <dt></dt>
+      <dd title="">GIT</dd>
+      <dd title="">SVN</dd>
+      <dd title="">GCP</dd>
+      <dd title="">Shape Up</dd>
+      <dd title="">Scrum</dd>
 
     </dl>
   </section>

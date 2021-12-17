@@ -14,6 +14,7 @@
         <li><p>Encargado de infraestructura On-premises y Cloud.</p></li>
         <li><p>Encargado de implementar modelos de optimizacion y ML.</p></li>
         <li><p>Definiciones de estrategias tecnologicas.</p></li>
+        <li><p>Migracion de proceso y sistemas sobre on-premises a plataformas cloud (AWS).</p></li>
       </ul>
 
     </article>
@@ -27,7 +28,7 @@
         <li><p>Implementacion dashboard de visualización de datos relevantes para la empresa.</p></li>
         <li><p>Desarrollo de modelo de ML para automatización de procesos de aprobaciones de clientes.</p></li>
         <li><p>Desarrollo de modelo de ML para automatización en la detección de fuga de clientes.</p></li>
-        <li><p>Optimizacion de query a db y algoritmos que requieren alta performance.</p></li>
+        <li><p>Desarrollo de procesos ETL para el manejo de datos de fuentes externas a la organizacion.</p></li>
       </ul>
 
     </article>
