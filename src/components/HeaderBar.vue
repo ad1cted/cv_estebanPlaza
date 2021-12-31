@@ -1,7 +1,7 @@
 <template>
   <header class="vcard">
     <h1 class="fn">{{ name }}</h1>
-    <h2 class="role">Data Engineer &amp; Full-Stack Developer  </h2>
+    <h2 class="role">Data Engineer &amp; Full-Stack Developer </h2>
     <ul class="contact">
       <li class="email">✉️
         <a :href="'mailto:'+ email">
@@ -28,7 +28,7 @@
         <a href="https://www.hackerrank.com/ad1cted"> HackerRank</a>
       </li>
 
-<!--      TODO: AGREGAR  LINKEDIN-->
+      <!--      TODO: AGREGAR  LINKEDIN-->
       <li class="url">
         <img class="icon" src="../../static/topcoder_logo.png">
         <a href="https://www.topcoder.com/members/ad1cted"> TopCoder</a>
@@ -36,7 +36,6 @@
       <li class="url">
         <Countdown/>
       </li>
-
 
 
     </ul>
@@ -54,7 +53,7 @@ export default {
   props: {
     name: String,
     email: String
-  }, components:{
+  }, components: {
     Countdown
 
   }
