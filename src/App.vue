@@ -1,16 +1,20 @@
 <template>
   <div id="app" class="main">
     <CV nombre="Esteban Isaias Plaza A."/>
+    <button-pdf/>
+
   </div>
 </template>
 <script>
 
 import CV from './components/CV.vue'
-
+import ButtonPdf from "./components/ButtonPdf";
 export default {
   name: 'App',
   components: {
-    CV
+    CV,
+    ButtonPdf
+
   },
 
 }
@@ -24,6 +28,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 20px;
 }
 </style>
