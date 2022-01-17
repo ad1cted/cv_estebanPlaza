@@ -1,19 +1,16 @@
 <template>
   <div id="app" class="main">
     <CV nombre="Esteban Isaias Plaza A."/>
-    <button-pdf/>
 
   </div>
 </template>
 <script>
 
 import CV from './components/CV.vue'
-import ButtonPdf from "./components/ButtonPdf";
 export default {
   name: 'App',
   components: {
     CV,
-    ButtonPdf
 
   },
 
