@@ -18,6 +18,7 @@
       <dd title="">Python</dd>
       <dd title="">Java</dd>
       <dd title="">Spring Boot</dd>
+      <dd title="">Spring XD</dd>
       <dd title="">NodeJS</dd>
       <dd title="">Deno</dd>
       <dd title="">RoR</dd>
@@ -31,6 +32,7 @@
       <dt></dt>
       <dd title="">Sklearn</dd>
       <dd title="">Scrapy</dd>
+      <dd title="">Apache Crunch</dd>
       <dd title="">Dask</dd>
       <dd title="">Laravel</dd>
       <dd title="">CodeIgniter</dd>
@@ -48,6 +50,7 @@
       <dd title="">MongoDB</dd>
       <dd title="">Neo4j</dd>
       <dd title="">Aurora</dd>
+      <dd title="">DynamoDB</dd>
 
       <dt>CMS/ERP/CRM</dt>
       <dd title="">Odoo</dd>
@@ -70,11 +73,11 @@
       <dd title="">Heroku</dd>
       <dd title="">AWS</dd>
       <dd title="">Docker</dd>
-      <dd title="Jenkins">Docker Swarm</dd>
+      <dd title="">Docker Swarm</dd>
       <dd title="">Keras</dd>
-      <dd title="">QlikView</dd>
 
       <dt></dt>
+      <dd title="">QlikView</dd>
       <dd title="">GIT</dd>
       <dd title="">SVN</dd>
       <dd title="">GCP</dd>
@@ -84,9 +87,3 @@
     </dl>
   </section>
 </template>
-
-<script>
-export default {
-  name: "Skills"
-}
-</script>
