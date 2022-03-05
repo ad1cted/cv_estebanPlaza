@@ -12,25 +12,27 @@
       </li>
       <li class="adr"><span class="locality">Santiago</span>, <span class="country-name">Chile </span>🇨🇱</li>
       <li class="url" title="Github">
-        <img class="icon" src="../../static/github_logo.png">
+        <img alt="github_logo" class="icon" src="../../static/github_logo.png">
         <a href="https://github.com/ad1cted"> GitHub</a>
       </li>
       <li class="url">
-        <img class="icon" src="../../static/codesignal_logo.png">
+        <img alt="codesignal_logo" class="icon" src="../../static/codesignal_logo.png">
         <a href="https://app.codesignal.com/profile/esteban_i"> CodeSignal</a>
       </li>
       <li class="url">
-        <img class="icon" src="../../static/platzi_logo.webp">
+        <img alt="platzi_logo" class="icon" src="../../static/platzi_logo.webp">
         <a href="https://platzi.com/p/TracertRouter/"> Platzi</a>
       </li>
       <li class="url">
-        <img class="icon" src="../../static/hackerrank_logo.svg">
+        <img alt="hackerrank_logo" class="icon" src="../../static/hackerrank_logo.svg">
         <a href="https://www.hackerrank.com/ad1cted"> HackerRank</a>
       </li>
-
-      <!--      TODO: AGREGAR  LINKEDIN-->
       <li class="url">
-        <img class="icon" src="../../static/topcoder_logo.png">
+        <img alt="linkedin_logo" class="icon" src="../../static/linkedin_ico.svg">
+        <a href="https://www.linkedin.com/in/esteban-isaias-plaza-aranda-702779115/"> Linkedin</a>
+      </li>
+      <li class="url">
+        <img alt="topcoder_logo" class="icon" src="../../static/topcoder_logo.png">
         <a href="https://www.topcoder.com/members/ad1cted"> TopCoder</a>
       </li>
       <li class="url">
