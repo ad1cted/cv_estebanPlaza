@@ -30,6 +30,7 @@
       <dd title="">Selenium</dd>
       <dd title="">Celery</dd>
       <dt></dt>
+      <dd title="">Julia</dd>
       <dd title="">Sklearn</dd>
       <dd title="">Scrapy</dd>
       <dd title="">Apache Crunch</dd>
@@ -39,6 +40,9 @@
       <dd title="">Spark</dd>
       <dd title="">Streamlit</dd>
       <dd title="">Apache Beam</dd>
+      <dd title="">Airflow</dd>
+      <dd title="">Dataflow</dd>
+
 
 
       <dt>DB</dt>
@@ -83,7 +87,8 @@
       <dd title="">GCP</dd>
       <dd title="">Shape Up</dd>
       <dd title="">Scrum</dd>
-
+      <dd title="">Ansible</dd>
+      <dd title="">Jira/Confluence</dd>
     </dl>
   </section>
 </template>
