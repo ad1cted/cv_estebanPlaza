@@ -6,7 +6,7 @@
       <h2>Data Engineer Ssr</h2>
 
       <time class="end" datetime="2021-11-01">Desde Nov 2021</time>
-      <p>Lider de  equipo y Ingeniero de datos.</p>
+      <p>Data Engineer y lider de equipo.</p>
 
 
       <ul id="left-align">
@@ -21,12 +21,11 @@
 
     <article>
       <h1><a href="https://www.avla.com/cl/" title="AVLA">DictUC/VINKEN</a> <span>Chile</span></h1>
-      <h2>Consultor TI</h2>
-      <p>Gestión de proyectos de SW y guiar al equipo de TI en temas estrategicos.</p>
+      <h2>Ing de software</h2>
+      <p>Full-Stack Dev & Gestión de proyectos de SW.</p>
 
       <time class="start" datetime="2021-02-01">Feb 2021</time>
       <time class="end" datetime="2021-11-01">Nov 2021</time>
-      <p>Lider de  equipo y Ingeniero de datos.</p>
 
       <ul id="left-align">
         <li><p>Seguimiento y supervision de proyectos de SW.</p></li>
