@@ -1,3 +1,4 @@
+
 <template>
   <div id="app" class="main">
     <CV nombre="Esteban Isaias Plaza A."/>

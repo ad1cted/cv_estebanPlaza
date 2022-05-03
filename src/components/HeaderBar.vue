@@ -41,6 +41,7 @@
 
 
     </ul>
+    <locale-changer></locale-changer>
 
   </header>
 </template>
@@ -49,6 +50,7 @@
 
 
 import Countdown from "@/components/Countdown";
+import LocaleChanger from "./LocaleChanger";
 
 export default {
   name: "HeaderBar",
@@ -56,6 +58,7 @@ export default {
     name: String,
     email: String
   }, components: {
+    LocaleChanger,
     Countdown
 
   }

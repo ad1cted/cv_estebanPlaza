@@ -2,7 +2,7 @@
   <section id="experience">
     <h1>Experiencia laboral</h1>
     <article>
-      <h1><a href="https://www.avla.com/cl/" title="AVLA">EQUIFAX</a> <span>Chile</span></h1>
+      <h1><a href="https://soluciones.equifax.cl/" title="equifax">EQUIFAX</a> <span>Chile</span></h1>
       <h2>Data Engineer Ssr</h2>
 
       <time class="end" datetime="2021-11-01">Desde Nov 2021</time>
@@ -20,7 +20,7 @@
     </article>
 
     <article>
-      <h1><a href="https://www.avla.com/cl/" title="AVLA">DictUC/VINKEN</a> <span>Chile</span></h1>
+      <h1><a href="https://vinken.cl/" title="VINKEN">DictUC/VINKEN</a> <span>Chile</span></h1>
       <h2>Ing de software</h2>
       <p>Full-Stack Dev & Gestión de proyectos de SW.</p>
 

@@ -1,6 +1,6 @@
 <template>
   <vue-countdown v-slot="{ days}" :interval="300" :time="time">
-    Edad：{{ Math.trunc(days / 365) }} Años, {{ Math.trunc(days % 365 / 30) }} Meses.
+    {{$t("message.age")}}：{{ Math.trunc(days / 365) }} {{$t("message.years")}}, {{ Math.trunc(days % 365 / 30) }} {{$t("message.months")}}.
   </vue-countdown>
 </template>
 
