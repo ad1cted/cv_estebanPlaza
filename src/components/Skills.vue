@@ -33,15 +33,10 @@
       <dd title="">Julia</dd>
       <dd title="">Sklearn</dd>
       <dd title="">Scrapy</dd>
-      <dd title="">Apache Crunch</dd>
       <dd title="">Dask</dd>
       <dd title="">Laravel</dd>
       <dd title="">CodeIgniter</dd>
-      <dd title="">Spark</dd>
       <dd title="">Streamlit</dd>
-      <dd title="">Apache Beam</dd>
-      <dd title="">Airflow</dd>
-      <dd title="">Dataflow</dd>
 
 
 
@@ -55,6 +50,8 @@
       <dd title="">Neo4j</dd>
       <dd title="">Aurora</dd>
       <dd title="">DynamoDB</dd>
+      <dd title="">Redshift</dd>
+
 
       <dt>CMS/ERP/CRM</dt>
       <dd title="">Odoo</dd>
@@ -66,11 +63,22 @@
       <dd title="">Plone</dd>
       <dd title="">SalesForce</dd>
 
-      <dt>Otros</dt>
+      <dt>Data</dt>
+      <dd title="">Apache Beam</dd>
+      <dd title="">Airflow</dd>
+      <dd title="">Dataflow</dd>
+      <dd title="">Glue</dd>
+      <dd title="">Pentaho</dd>
+      <dd title="">Spark</dd>
+      <dd title="">Apache Crunch</dd>
+      <dd title="">AirByte</dd>
+
+
+
+      <dt>{{$t("message.others")}}</dt>
       <dd title="">Kubernetes</dd>
       <dd title="">Bizagi</dd>
       <dd title="">Bonita BPM</dd>
-      <dd title="">Pentaho</dd>
       <dd title="">Jenkins</dd>
       <dd title="">Linux ❤️</dd>
       <dd title="">Arduino</dd>
@@ -78,7 +86,7 @@
       <dd title="">AWS</dd>
       <dd title="">Docker</dd>
       <dd title="">Docker Swarm</dd>
-      <dd title="">Keras</dd>
+
 
       <dt></dt>
       <dd title="">QlikView</dd>
@@ -89,6 +97,10 @@
       <dd title="">Scrum</dd>
       <dd title="">Ansible</dd>
       <dd title="">Jira/Confluence</dd>
+      <dd title="">Space</dd>
+
     </dl>
   </section>
 </template>
+<script setup>
+</script>

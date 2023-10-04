@@ -4,36 +4,36 @@
                email="esteban.plaza.a@usach.cl"
                name="Esteban Isaias Plaza"
     />
-    <Summary/>
+    <Resume/>
     <Skills/>
     <Experience/>
     <Education/>
     <Hobbies/>
-    <Footer/>
+    <Final/>
 
   </div>
 </template>
 
 <script>
 
-import Summary from "@/components/Summary";
+import Resume from "@/components/Resume.vue";
 import Skills from "@/components/Skills";
 import HeaderBar from "@/components/HeaderBar";
 import Experience from "@/components/Experience";
 import Education from "@/components/Education";
 import Hobbies from "@/components/Hobbies";
-import Footer from "@/components/Footer";
+import Final from "@/components/Final";
 
 export default {
   name: 'CV',
   components: {
-    Summary,
+    Resume,
     Skills,
     HeaderBar,
     Experience,
     Education,
     Hobbies,
-    Footer,
+    Final,
   },
 }
 </script>

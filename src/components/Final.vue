@@ -1,6 +1,6 @@
 <template>
   <footer class="main-app-footer">
-    <p>Hecho con
+    <p>{{$t("message.made_with")}}
       <img class="icon" src="../../static/vue_logo.png">
     </p>
 
@@ -10,7 +10,7 @@
 
 <script>
 export default {
-  name: "Footer"
+  name: "Final"
 }
 </script>
 

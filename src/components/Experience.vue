@@ -2,6 +2,23 @@
   <section id="experience">
     <h1>Experiencia laboral</h1>
     <article>
+      <h1><a href="https://www.orsanseguros.cl/" title="orsan">ORSAN SEGUROS DE CREDITO Y GARANTIA</a> <span>Chile</span></h1>
+      <h2>Sub Gerente de TI</h2>
+
+      <time class="end" datetime="2021-11-01">Desde Nov 2021</time>
+      <p>Data Engineer y lider de equipo.</p>
+
+
+      <ul id="left-align">
+
+        <li><p>Liderar equipo de Data Engineers.</p></li>
+        <li><p>Desarollo de pipelines sobre GCP.</p></li>
+        <li><p>Migracion de ambientes on-prem a cloud</p></li>
+        <li><p>Tecnologias involucradas: Dataflow, Airflow, GCP, Hadoop, Scala, Java, Apache Crunch</p></li>
+      </ul>
+
+    </article>
+    <article>
       <h1><a href="https://soluciones.equifax.cl/" title="equifax">EQUIFAX</a> <span>Chile</span></h1>
       <h2>Data Engineer Ssr</h2>
 

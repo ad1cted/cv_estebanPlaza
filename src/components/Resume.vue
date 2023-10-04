@@ -8,7 +8,7 @@
 </template>
 <script>
 export default {
-  name: "Summary"
+  name: "Resume"
 }
 </script>
 
